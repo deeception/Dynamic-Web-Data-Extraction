@@ -1,4 +1,6 @@
 **Dynamic Web Data Extraction Project**
+
+
 Project Description
 This project focuses on web scraping dynamic websites with multiple pages and performing data analysis. By choosing and loading URLs into the web scraping tool, the tool extracts data efficiently from these sites.
 
